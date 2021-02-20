@@ -1,7 +1,7 @@
 # Astoria Argenta AEP-2 (AEP/2N)
-This project is about the SAE 2 (two head) model with documentation references and images of my machine. I found it difficult to find good references to documentation about this machine. So if this just becomes a good reference for someone - it's done it's job! 
+This information was gathered about the SAE 2 (two head) model with documentation references and images. I found it difficult to find good references to documentation about this machine. So if this just becomes a good reference for someone - it's done it's job! 
 
-
+Requirements: 220v
 
 ## Documentation
 
